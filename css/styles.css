@@ -1,5 +1,6 @@
 body {
   font-family: 'Creepster', cursive;
+  background-color: black;
 }
 
 footer {
@@ -9,6 +10,7 @@ footer {
 }
 
 .jumbotron {
+  text-align: center;
   margin: 0;
   padding: 30px;
   background-color: black;
@@ -22,7 +24,7 @@ footer {
 }
 
 .navbar {
-  background-image: linear-gradient(to right, black, darkgray, white);
+  background-image: linear-gradient(to right, black, gray, darkgray, white);
   color: white;
 }
 
